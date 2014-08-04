@@ -9,7 +9,9 @@ Holds license and legal templates for conference holding, primarily used by [SIT
 License / 授權
 ---
 
-Except noted in individual files, all templates are licensed under [CC BY-SA 3.0](creativecommons.org/licenses/by-sa/3.0/) license.
+除特別提及外，所有檔案皆以[創用CC 姓名標示-相同方式分享 3.0](http://creativecommons.org/licenses/by-sa/3.0/tw/) 授權方式釋出。
+
+Except noted in individual files, all templates are licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
 
 
 Further reading / 相關連結
